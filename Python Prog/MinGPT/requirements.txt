@@ -1,0 +1,4 @@
+chromadb
+tiktoken
+
+please fill this next time you run this so we can make
